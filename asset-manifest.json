@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vacay-to-go/static/css/main.fbad3e1a.css",
+    "main.js": "/vacay-to-go/static/js/main.e99798d7.js",
+    "index.html": "/vacay-to-go/index.html",
+    "main.fbad3e1a.css.map": "/vacay-to-go/static/css/main.fbad3e1a.css.map",
+    "main.e99798d7.js.map": "/vacay-to-go/static/js/main.e99798d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbad3e1a.css",
+    "static/js/main.e99798d7.js"
+  ]
+}
